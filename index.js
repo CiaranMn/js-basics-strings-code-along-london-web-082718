@@ -1,1 +1,2 @@
-const currentUser
+const currentUser = "Grace Hopper";
+
